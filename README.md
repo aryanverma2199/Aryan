@@ -1,1 +1,2 @@
 # Aryan
+An individual with a passion for software development and problem-solving. Eager to embark on a career as a Software Development Engineer. Possesses a solid foundation in programming languages such as Java and C++, along with a strong understanding of data structures and algorithms. Adept at collaborating within teams, adapting to new technologies, and keen on contributing innovative solutions to real-world challenges in the field of software development.
