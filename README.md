@@ -6,11 +6,11 @@ An individual with a passion for software development and problem-solving. Eager
 <a href="https://www.linkedin.com/in/aryan-verma-75b571193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryan-verma-447255194" height="30" width="40" /></a>
 
 
-<a href="https://www.codechef.com/users/https://www.codechef.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rizumee13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rizumee13" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aryanverma2199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/amanverma2199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanverma2199" height="30" width="40" /></a>
+<a href="https://leetcode.com/arya2199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arya2199" height="30" width="40" /></a>
 
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/monikasingh172012/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/monikasingh172012/practice/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/amanverma2199/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amanverma2199" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
